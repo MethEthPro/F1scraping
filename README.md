@@ -2,7 +2,9 @@ PYTHON F1 SCRAPER
 
 BRIEF INTRO
 So on a random day i was fascinated by the statistics the F1 fan pages put out , I thought how do they keep the track and all .So i visited a git repository that had some f1 scraping done and i deep dived into it , 
-beautiful soup but now i have scraped almost the entire information available on the https://www.formula1.com/en/results.html/2024/races.html  page , 
+
+I didnt knew anything about beautiful soup but now i have scraped almost the entire information available on the https://www.formula1.com/en/results.html/2024/races.html  page , it took me like 4-5 days idk 
+
 
 ABOUT THE REPOSITORY 
 in the repository you will find three folders 
@@ -25,6 +27,8 @@ In teams program you get information about the teams , either individual perform
 
 In drivers program you again have two choices whether you want the individual performance of a driver over the year or you want the performance of all the drivers over the year i.e. driver standings
 
+
+In the everything folder you will find a jupyter notebook and some sample CSVs on which I have performed some basic data analysis with whatever little knowledge i had 
 
 KEY POINTS 
 === UP TO DATE
