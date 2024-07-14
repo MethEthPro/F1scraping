@@ -1,0 +1,44 @@
+POS,DRIVER,NATIONALITY,CAR,PTS,CODE,YEAR
+0,Max Verstappen,NED,Red Bull Racing Honda,395.5,MaxVer01,2021
+1,Lewis Hamilton,GBR,Mercedes,387.5,LewHam01,2021
+2,Valtteri Bottas,FIN,Mercedes,226,ValBot01,2021
+3,Sergio Perez,MEX,Red Bull Racing Honda,190,SerPer01,2021
+4,Carlos Sainz,ESP,Ferrari,164.5,CarSai01,2021
+5,Lando Norris,GBR,McLaren Mercedes,160,LanNor01,2021
+6,Charles Leclerc,MON,Ferrari,159,ChaLec01,2021
+7,Daniel Ricciardo,AUS,McLaren Mercedes,115,DanRic01,2021
+8,Pierre Gasly,FRA,AlphaTauri Honda,110,PieGas01,2021
+9,Fernando Alonso,ESP,Alpine Renault,81,FerAlo01,2021
+10,Esteban Ocon,FRA,Alpine Renault,74,EstOco01,2021
+11,Sebastian Vettel,GER,Aston Martin Mercedes,43,SebVet01,2021
+12,Lance Stroll,CAN,Aston Martin Mercedes,34,LanStr01,2021
+13,Yuki Tsunoda,JPN,AlphaTauri Honda,32,YukTsu01,2021
+14,George Russell,GBR,Williams Mercedes,16,GeoRus01,2021
+15,Kimi Räikkönen,FIN,Alfa Romeo Racing Ferrari,10,KimRäi01,2021
+16,Nicholas Latifi,CAN,Williams Mercedes,7,NicLat01,2021
+17,Antonio Giovinazzi,ITA,Alfa Romeo Racing Ferrari,3,AntGio01,2021
+18,Mick Schumacher,GER,Haas Ferrari,0,MicSch01,2021
+19,Robert Kubica,POL,Alfa Romeo Racing Ferrari,0,RobKub01,2021
+20,Nikita Mazepin,RAF,Haas Ferrari,0,NikMaz01,2021
+0,Max Verstappen,NED,Red Bull Racing RBPT,454,MaxVer01,2022
+1,Charles Leclerc,MON,Ferrari,308,ChaLec01,2022
+2,Sergio Perez,MEX,Red Bull Racing RBPT,305,SerPer01,2022
+3,George Russell,GBR,Mercedes,275,GeoRus01,2022
+4,Carlos Sainz,ESP,Ferrari,246,CarSai01,2022
+5,Lewis Hamilton,GBR,Mercedes,240,LewHam01,2022
+6,Lando Norris,GBR,McLaren Mercedes,122,LanNor01,2022
+7,Esteban Ocon,FRA,Alpine Renault,92,EstOco01,2022
+8,Fernando Alonso,ESP,Alpine Renault,81,FerAlo01,2022
+9,Valtteri Bottas,FIN,Alfa Romeo Ferrari,49,ValBot01,2022
+10,Daniel Ricciardo,AUS,McLaren Mercedes,37,DanRic01,2022
+11,Sebastian Vettel,GER,Aston Martin Aramco Mercedes,37,SebVet01,2022
+12,Kevin Magnussen,DEN,Haas Ferrari,25,KevMag01,2022
+13,Pierre Gasly,FRA,AlphaTauri RBPT,23,PieGas01,2022
+14,Lance Stroll,CAN,Aston Martin Aramco Mercedes,18,LanStr01,2022
+15,Mick Schumacher,GER,Haas Ferrari,12,MicSch01,2022
+16,Yuki Tsunoda,JPN,AlphaTauri RBPT,12,YukTsu01,2022
+17,Zhou Guanyu,CHN,Alfa Romeo Ferrari,6,ZhoGua01,2022
+18,Alexander Albon,THA,Williams Mercedes,4,AleAlb01,2022
+19,Nicholas Latifi,CAN,Williams Mercedes,2,NicLat01,2022
+20,Nyck De Vries,NED,Williams Mercedes,2,NycDe01,2022
+21,Nico Hulkenberg,GER,Aston Martin Aramco Mercedes,0,NicHul01,2022
