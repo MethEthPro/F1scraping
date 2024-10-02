@@ -13,7 +13,7 @@ except FileNotFoundError:
     pass
 now = datetime.datetime.now()
 curr_year = now.year
-
+print("hello")
 def get_page(url):
     page = requests.get(url, headers={
         "User-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"})
