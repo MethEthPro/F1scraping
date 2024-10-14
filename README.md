@@ -1,9 +1,9 @@
 
+
+
+
+
 ![Screenshot (358)](https://github.com/user-attachments/assets/8b6a4858-57e8-496a-a336-fa18477028df)
-![individual peformance](https://github.com/user-attachments/assets/01fce150-d07b-4294-a403-e988582426d3)
-
-
-
 # F1 Scraping
 
 F1 Scraping is a Python project designed to scrape Formula 1 data from various online sources. This tool extracts detailed statistics, race results, driver information, and other relevant F1 data for analysis and use in various applications.I highly recommend to take a look at the csv files generated under each directory , it will give you a much more in depth grasp of what we are looking at.
@@ -53,6 +53,7 @@ YOU CAN GET ANYTHING FROM QUALIFYING TIMES OF Q1,Q2,Q3 to fastest laps of the ra
    python f1_scraper.py
    \`\`\`
 3. **View the results**: The scraped data will be saved in the output directory in CSV or JSON format.
+4. ![individual peformance](https://github.com/user-attachments/assets/01fce150-d07b-4294-a403-e988582426d3)
 
 ### Command-Line Arguments
 
